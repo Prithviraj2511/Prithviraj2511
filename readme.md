@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Student!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning machine learning and react
 - 🥅 2021 Goals: Start Contributing to Open Source projects
 - ⚡ Fun fact: I love to draw and sprinting
 
