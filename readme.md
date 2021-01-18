@@ -36,6 +36,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Dask: Explore dask a datascience library](https://inblog.in/Fast-Your-Task-With-Dask-3elFowxZEs)
+- [Crio: Externship Experience](https://prithvirajpatil2511.medium.com/externship-experience-with-crio-stage-1-8d09f881781c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
