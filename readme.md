@@ -2,8 +2,8 @@
 
 ## I'm a Developer and Student!!
 
-- 🌱 I’m currently learning machine learning and react
-- 🥅 2021 Goals: Start Contributing to Open Source projects
+- 🌱 I’m currently solving DSA Problems & Exploring DevOps domain
+- 🥅 2022 Goals: Start Contributing to Open Source projects and do AWS certification
 - ⚡ Fun fact: I love to draw and sprint running
 
 ### Connect with me:
@@ -32,7 +32,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Dask: Explore dask a datascience library](https://inblog.in/Fast-Your-Task-With-Dask-3elFowxZEs)
