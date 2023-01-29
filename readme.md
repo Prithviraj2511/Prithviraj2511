@@ -2,8 +2,8 @@
 
 ## I'm a Developer and Student!!
 
-- 🌱 I’m currently solving DSA Problems & Exploring DevOps domain
-- 🥅 2022 Goals: Start Contributing to Open Source projects and do AWS certification
+- 🌱 I'm currently learning about microservices with spring
+- 🥅 2023 Goals: to have good enough knowledge around microservices and start contributing to some Open Source projects
 - ⚡ Fun fact: I love to draw and sprint running
 
 ### Connect with me:
