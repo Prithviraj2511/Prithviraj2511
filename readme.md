@@ -4,9 +4,9 @@ I'm a software engineer from India.
 <br />
 
 <details>
-<summary>
+<!-- <summary>
   More stuff about me
-</summary>
+</summary> -->
 
 ### My Skills
 
