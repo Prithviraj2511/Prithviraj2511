@@ -3,8 +3,8 @@
 I'm a software engineer from India.
 <br />
 
-<details>
-<!-- <summary>
+<!-- <details>
+<summary>
   More stuff about me
 </summary> -->
 
@@ -31,4 +31,4 @@ I'm a software engineer from India.
 <!-- BLOG-POST-LIST:END -->
 
 ---
-</details>
+<!-- </details> -->
